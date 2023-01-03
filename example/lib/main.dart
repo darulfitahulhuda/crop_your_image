@@ -38,10 +38,10 @@ class CropSample extends StatefulWidget {
 
 class _CropSampleState extends State<CropSample> {
   static const _images = const [
-    'assets/images/city.png',
-    'assets/images/lake.png',
-    'assets/images/train.png',
-    'assets/images/turtois.png',
+    'assets/images/image.png',
+    'assets/images/image.png',
+    'assets/images/image.png',
+    'assets/images/image.png',
   ];
 
   final _cropController = CropController();
